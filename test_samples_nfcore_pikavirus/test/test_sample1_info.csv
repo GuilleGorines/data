@@ -1,0 +1,17 @@
+Role in sample,Species,Reference,,% of reads,,,,,,,,
+Host,Homo sapiens,GCF_000001405.39,,20,,,,,,,,
+Bacteria,Pseudomonas aeruginosa PAO1,GCF_000006765.1,,20,,,,,,,,
+Fungi,Saccharomyces cerevisiae S288C,GCF_000146045.2,,20,,,,,,,,
+Virus,Human alphaherpesvirus 1 (Herpes simplex virus type 1),GCF_000859985.2,,20,,,,,,,,
+Unknown,Influenza A virus (A/Korea/426/1968(H2N2)),GCF_000866645.1,,20,,,,,,,,
+,,,,,,,,,,,,
+Total reads,100k,2x50k,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+Samplename,Sampletype,Host organism,% host,Bacteria organism,% bacteria,Fungi organism,% fungi,Virus organism,% virus,Unknown organism,% unknown,Total reads
+1,Paired_end,Homo sapiens (GCF_000001405.39),20,Pseudomonas aeruginosa PAO1 (GCF_000006765.1 ),20,Saccharomyces cerevisiae S288C (GCF_000146045.2 ),20,Human alphaherpesvirus 1 (Herpes simplex virus type 1) (GCF_000859985.2 ),20,Influenza A virus (A/Korea/426/1968(H2N2)) (GCF_000866645.1 ),20,2x50k
+2,Single_end,,,,,,,,,,,
