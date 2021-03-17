@@ -5,5 +5,5 @@ Fungi,Saccharomyces cerevisiae S288C,GCF_000146045.2,20
 Virus,Human alphaherpesvirus 1 (Herpes simplex virus type 1),GCF_000859985.2,20
 Unknown,Influenza A virus (A/Korea/426/1968(H2N2)),GCF_000866645.1,20
 ,,,
-Total reads,100k,2x50k,
+Total reads,100k (2x50k),,
 Read length,150 bp,,
